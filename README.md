@@ -1,4 +1,4 @@
-![Spring2048](src/main/webapp/public-resources/image/logo.png)
+  ![Spring2048](src/main/webapp/public-resources/image/logo.png)
 
 ## Introduction
 
